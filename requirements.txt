@@ -1,0 +1,6 @@
+selenium
+pandas
+pyarrow
+numpy
+scikit-learn
+matplotlib
