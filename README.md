@@ -1,21 +1,18 @@
 # market-intel-system-x
-Data scraping and analysis system for real-time market  intelligence.
-
-A Complete Twitter/X Market Sentiment Intelligence Pipeline
+Data scraping and analysis system for real-time market  intelligence. A Complete Twitter/X Market Sentiment Intelligence Pipeline
 
 This project is an end-to-end market intelligence system that:
+  - Scrapes stock-market–related tweets
 
-Scrapes stock-market–related tweets
+  - Cleans + preprocesses text
 
-Cleans + preprocesses text
+  - Extracts hashtags/mentions/engagement metrics
 
-Extracts hashtags/mentions/engagement metrics
+  - Vectorizes using TF-IDF
 
-Vectorizes using TF-IDF
+  - Generates buy/sell signals
 
-Generates buy/sell signals
-
-Produces final datasets & visual analysis
+  - Produces final datasets & visual analysis
 
 It is designed for analysts, data scientists, quants, and market researchers who want to track public sentiment on Indian stock markets (NIFTY, BankNifty, Sensex).
 
