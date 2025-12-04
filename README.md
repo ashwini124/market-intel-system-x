@@ -160,4 +160,7 @@ tweet_signals.parquet
 Output:
 <img width="1485" height="954" alt="image" src="https://github.com/user-attachments/assets/595619b6-0e0a-484e-b140-5dde4c23c9c6" />
 
+<img width="1536" height="754" alt="Figure_1" src="https://github.com/user-attachments/assets/17d11ee6-55ed-4b52-bf3d-580e642e8ece" />
+
+
 
