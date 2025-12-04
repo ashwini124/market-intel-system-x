@@ -157,3 +157,7 @@ Outputs saved as:
 tweets_cleaned.parquet
 tweet_signals.parquet
 
+Output:
+<img width="1485" height="954" alt="image" src="https://github.com/user-attachments/assets/595619b6-0e0a-484e-b140-5dde4c23c9c6" />
+
+
