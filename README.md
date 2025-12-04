@@ -84,10 +84,25 @@ market-intel-system/
 
 # Quick Start: Setup & Installation
 1. Clone the project
-2. Create virtual environment
-3. Install dependencies
-4. Install Chrome + ChromeDriver
-5. Run the Pipeline
+2. Create virtual environment:
+py -m venv venv
+
+source venv/bin/activate
+
+pip install --upgrade pip
+
+
+4. Install dependencies
+
+pip install -r requirements.txt
+
+5. Install Chrome + ChromeDriver
+
+google-chrome --version
+chromedriver --version
+(Check https://chromedriver.chromium.org/downloads)
+
+6. Run the Pipeline
 
 
 # 📌 Objective
