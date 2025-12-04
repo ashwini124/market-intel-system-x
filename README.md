@@ -22,36 +22,67 @@ It is designed for analysts, data scientists, quants, and market researchers who
 # Project Structure
 market-intel-system/
 │
+
 ├─ src/
+
 │   ├─ main.py
+
 │   │
+
 │   ├─ scraper/
+
 │   │   ├─ twitter_scraper.py
+
 │   │   ├─ driver_setup.py
+
 │   │   └─ utils.py
+
 │   │
+
 │   ├─ processing/
+
 │   │   ├─ cleaner.py
+
 │   │   └─ storage.py
+
 │   │
+
 │   ├─ analysis/
+
 │   │   ├─ vectorizer.py
+
 │   │   ├─ signal_generator.py
+
 │   │   └─ visualization.py
+
 │   │
+
 │   └─ __init__.py
+
 │
+
 ├─ logs/
+
 │   └─ scraper.log
+
 │
+
 ├─ data/
+
 │   └─ processed/
+
 │       ├─ tweets_cleaned.parquet     (sample)
+
 │       └─ tweet_signals.parquet      (sample)
+
 │
+
 ├─ requirements.txt
+
 ├─ environment.txt
+
 └─ README.md
+
 
 # Quick Start: Setup & Installation
 1. Clone the project
