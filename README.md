@@ -79,8 +79,6 @@ market-intel-system/
 
 ├─ requirements.txt
 
-├─ environment.txt
-
 └─ README.md
 
 
