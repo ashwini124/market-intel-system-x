@@ -103,6 +103,7 @@ pip install -r requirements.txt
 
 google-chrome --version
 chromedriver --version
+
 (Check https://chromedriver.chromium.org/downloads)
 
 6. Run the Pipeline
